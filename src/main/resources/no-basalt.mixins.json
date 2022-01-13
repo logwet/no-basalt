@@ -4,6 +4,7 @@
   "package": "me.logwet.no_basalt.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "common.MultiNoiseBiomeSourceMixin"
   ],
   "client": [
     "client.DebugScreenOverlayMixin"
